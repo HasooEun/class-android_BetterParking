@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BetterParking</string>
+    <string name="inCarInfo">입차 정보</string>
+    <string name="cartype">차 종류</string>
+    <string name="carnum">차 번호</string>
+    <string name="incar">입차</string>
+    <string name="outcar">출차</string>
+    <string name="inner_cartype">차종류: </string>
+    <string name="inner_carnum">차번호: </string>
+    <string name="inner_incarTime">입차시간: </string>
+</resources>
